@@ -38,5 +38,6 @@ style.syntax["literal"] = { common.color "#FFA94D" }
 style.syntax["string"] = { common.color "#f7c95c" }
 style.syntax["operator"] = { common.color "#93DDFA" }
 style.syntax["function"] = { common.color "#93DDFA" }
+style.syntax["builtin_function"] = { common.color "#8287E1" } -- well, what colour should it be?
 
 return style
